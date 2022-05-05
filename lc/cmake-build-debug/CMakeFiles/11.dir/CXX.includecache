@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator/Desktop/c_workSpace/lc/11_maxArea_mid.cpp
+iostream
+-
+vector
+-
+
+C:/Users/Administrator/Desktop/c_workSpace/lc/s_heapsort.cpp
+iostream
+-
+

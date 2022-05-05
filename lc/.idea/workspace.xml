@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lc" targetName="70." />
+      <config projectName="lc" targetName="176" />
+      <config projectName="lc" targetName="77" />
+      <config projectName="lc" targetName="171" />
+      <config projectName="lc" targetName="5" />
+      <config projectName="lc" targetName="20" />
+      <config projectName="lc" targetName="70" />
+      <config projectName="lc" targetName="24" />
+      <config projectName="lc" targetName="216" />
+      <config projectName="lc" targetName="gomapBFS" />
+      <config projectName="lc" targetName="402" />
+      <config projectName="lc" targetName="168" />
+      <config projectName="lc" targetName="19" />
+      <config projectName="lc" targetName="test" />
+      <config projectName="lc" targetName="s_heapsort" />
+      <config projectName="lc" targetName="1306" />
+      <config projectName="lc" targetName="11" />
+      <config projectName="lc" targetName="63" />
+      <config projectName="lc" targetName="62" />
+      <config projectName="lc" targetName="list" />
+      <config projectName="lc" targetName="139" />
+      <config projectName="lc" targetName="34" />
+      <config projectName="lc" targetName="35" />
+      <config projectName="lc" targetName="206" />
+      <config projectName="lc" targetName="b_heapsort" />
+      <config projectName="lc" targetName="203" />
+      <config projectName="lc" targetName="347." />
+      <config projectName="lc" targetName="01dp2" />
+      <config projectName="lc" targetName="01dp1" />
+      <config projectName="lc" targetName="796" />
+      <config projectName="lc" targetName="707" />
+      <config projectName="lc" targetName="357" />
+      <config projectName="lc" targetName="704" />
+      <config projectName="lc" targetName="279" />
+      <config projectName="lc" targetName="347" />
+      <config projectName="lc" targetName="150" />
+      <config projectName="lc" targetName="397" />
+      <config projectName="lc" targetName="gomapDFS" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfdcac56-ae73-45fe-b7ac-8892ca70c3e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="26YMevvphHupE5M0iI5tBXnui5O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\c_workSpace\leetcode" />
+      <recent name="C:\Users\Administrator\Desktop\c_workSpace\leetcode\cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.test">
+    <configuration name="01dp1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="01dp1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="01dp1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="01dp2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="01dp2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="01dp2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="11" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="11">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1306" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="1306" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="1306">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="139" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="139" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="139">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="150" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="150" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="150">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="168" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="168" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="168">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="171" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="171" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="171">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="176" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="176" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="176">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="19" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="19" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="19">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="20" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="20" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="20">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="203" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="203" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="203">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="206" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="206" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="206">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="216" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="216" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="216">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="24" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="24" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="24">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="279" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="279" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="279">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="34" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="34" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="34">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="347" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="347" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="347">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="347." type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="347." CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="347.">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="35" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="35" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="35">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="357" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="357" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="357">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="397" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="397" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="397">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="402" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="402" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="402">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="62" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="62" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="62">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="63" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="63" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="63">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="70" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="70" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="70">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="704" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="704" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="704">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="707" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="707" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="707">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="70." type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="70." CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="70.">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="77" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="77" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="77">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="796" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="796" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="796">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="b_heapsort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="b_heapsort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="b_heapsort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gomapBFS" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="gomapBFS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="gomapBFS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gomapDFS" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="gomapDFS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="gomapDFS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="list" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="list" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="list">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s_heapsort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="s_heapsort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="s_heapsort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lc" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lc" RUN_TARGET_NAME="test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.01dp1" />
+      <item itemvalue="CMake Application.01dp2" />
+      <item itemvalue="CMake Application.11" />
+      <item itemvalue="CMake Application.1306" />
+      <item itemvalue="CMake Application.139" />
+      <item itemvalue="CMake Application.150" />
+      <item itemvalue="CMake Application.168" />
+      <item itemvalue="CMake Application.171" />
+      <item itemvalue="CMake Application.176" />
+      <item itemvalue="CMake Application.19" />
+      <item itemvalue="CMake Application.20" />
+      <item itemvalue="CMake Application.203" />
+      <item itemvalue="CMake Application.206" />
+      <item itemvalue="CMake Application.216" />
+      <item itemvalue="CMake Application.24" />
+      <item itemvalue="CMake Application.279" />
+      <item itemvalue="CMake Application.34" />
+      <item itemvalue="CMake Application.347" />
+      <item itemvalue="CMake Application.347." />
+      <item itemvalue="CMake Application.35" />
+      <item itemvalue="CMake Application.357" />
+      <item itemvalue="CMake Application.397" />
+      <item itemvalue="CMake Application.402" />
+      <item itemvalue="CMake Application.5" />
+      <item itemvalue="CMake Application.62" />
+      <item itemvalue="CMake Application.63" />
+      <item itemvalue="CMake Application.70" />
+      <item itemvalue="CMake Application.70." />
+      <item itemvalue="CMake Application.704" />
+      <item itemvalue="CMake Application.707" />
+      <item itemvalue="CMake Application.77" />
+      <item itemvalue="CMake Application.796" />
+      <item itemvalue="CMake Application.b_heapsort" />
+      <item itemvalue="CMake Application.gomapBFS" />
+      <item itemvalue="CMake Application.gomapDFS" />
+      <item itemvalue="CMake Application.list" />
+      <item itemvalue="CMake Application.s_heapsort" />
+      <item itemvalue="CMake Application.test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfdcac56-ae73-45fe-b7ac-8892ca70c3e8" name="Default Changelist" comment="" />
+      <created>1647596164952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647596164952</updated>
+      <workItem from="1647596166889" duration="6567000" />
+      <workItem from="1647606694313" duration="2630000" />
+      <workItem from="1647952942792" duration="4412000" />
+      <workItem from="1648173058639" duration="16265000" />
+      <workItem from="1648453103245" duration="19762000" />
+      <workItem from="1648553740695" duration="41701000" />
+      <workItem from="1649764070941" duration="31178000" />
+      <workItem from="1650022496632" duration="11802000" />
+      <workItem from="1650188975939" duration="42467000" />
+      <workItem from="1650594593137" duration="7051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1647597445421">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="174" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.870@0.0.1440.870" timestamp="1647597445421" />
+    <state x="461" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648554204915">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="461" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.870@0.0.1440.870" timestamp="1648554204915" />
+    <state x="450" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1648003657764">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="450" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.870@0.0.1440.870" timestamp="1648003657764" />
+    <state x="500" y="193" key="FileChooserDialogImpl" timestamp="1649764062098">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="500" y="193" key="FileChooserDialogImpl/0.0.1440.870@0.0.1440.870" timestamp="1649764062097" />
+    <state width="674" height="145" key="GridCell.Tab.0.bottom" timestamp="1650597874123">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="674" height="145" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1650597874123" />
+    <state width="674" height="145" key="GridCell.Tab.0.center" timestamp="1650597874123">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="674" height="145" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1650597874123" />
+    <state width="674" height="145" key="GridCell.Tab.0.left" timestamp="1650597874122">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="674" height="145" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1650597874122" />
+    <state width="674" height="145" key="GridCell.Tab.0.right" timestamp="1650597874123">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="674" height="145" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1650597874123" />
+    <state width="1397" height="194" key="GridCell.Tab.1.bottom" timestamp="1650335715571">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1397" height="194" key="GridCell.Tab.1.bottom/0.0.1440.870@0.0.1440.870" timestamp="1650335715571" />
+    <state width="1397" height="194" key="GridCell.Tab.1.center" timestamp="1650335715571">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1397" height="194" key="GridCell.Tab.1.center/0.0.1440.870@0.0.1440.870" timestamp="1650335715571" />
+    <state width="1397" height="194" key="GridCell.Tab.1.left" timestamp="1650335715571">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1397" height="194" key="GridCell.Tab.1.left/0.0.1440.870@0.0.1440.870" timestamp="1650335715571" />
+    <state width="1397" height="194" key="GridCell.Tab.1.right" timestamp="1650335715571">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1397" height="194" key="GridCell.Tab.1.right/0.0.1440.870@0.0.1440.870" timestamp="1650335715571" />
+    <state x="311" y="100" key="Registry" timestamp="1648003488065">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="311" y="100" key="Registry/0.0.1440.870@0.0.1440.870" timestamp="1648003488065" />
+    <state x="124" y="115" key="SettingsEditor" timestamp="1648003815890">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="124" y="115" key="SettingsEditor/0.0.1440.870@0.0.1440.870" timestamp="1648003815890" />
+    <state x="412" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1647606718231">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="412" y="262" key="com.intellij.ide.util.TipDialog/0.0.1440.870@0.0.1440.870" timestamp="1647606718231" />
+    <state x="383" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1649993256348">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="383" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1440.870@0.0.1440.870" timestamp="1649993256348" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="i" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
